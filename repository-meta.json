@@ -1,0 +1,62 @@
+{
+  "title": "Home Assistant",
+  "vcs": "git",
+  "visibility": "open_source",
+  "url": "https://github.com/astone123/home-assistant.git",
+  "external_url": "https://github.com/astone123/home-assistant",
+  "short_description": "Open-source home automation platform running on Python 3",
+  "long_description": "",
+  "keywords": [
+    "python",
+    "server",
+    "Home Automation"
+  ],
+  "languages": [
+    "Python"
+  ],
+  "auid": "astone1",
+  "orcid_id": "",
+  "full_name": "",
+  "email": "",
+  "aliases": "",
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "contributors": [
+    {
+      "name": "Paulus Schoutsen",
+      "email": "paulus@home-assistant.io"
+    },
+    {
+      "name": "Fabian Affolter",
+      "email": "mail@fabian-affolter.ch"
+    },
+    {
+      "name": "Pascal Vizeli",
+      "email": "pvizeli@syshack.ch"
+    },
+    {
+      "name": "Robbie Trencheny",
+      "email": "me@robbiet.us"
+    },
+    {
+      "name": "Adam Mills",
+      "email": "adam@armills.info"
+    },
+    {
+      "name": "Daniel Høyer Iversen",
+      "email": "mail@dahoiv.net"
+    },
+    {
+      "name": "Martin Hjelmare",
+      "email": "marhje52@kth.se"
+    }
+  ],
+  "nasa_mission": "",
+  "operating_systems": [
+    "windows",
+    "mac",
+    "unix",
+    "linux"
+  ]
+}
