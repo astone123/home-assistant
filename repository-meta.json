@@ -56,7 +56,6 @@
   "operating_systems": [
     "windows",
     "mac",
-    "unix",
-    "linux"
+    "unix"
   ]
 }
