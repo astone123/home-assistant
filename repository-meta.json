@@ -4,6 +4,7 @@
   "visibility": "open_source",
   "url": "https://github.com/astone123/home-assistant.git",
   "external_url": "https://github.com/astone123/home-assistant",
+  "short_description": "test description",
   "long_description": "",
   "keywords": [
     "python",
