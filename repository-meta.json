@@ -4,7 +4,6 @@
   "visibility": "open_source",
   "url": "https://github.com/astone123/home-assistant.git",
   "external_url": "https://github.com/astone123/home-assistant",
-  "short_description": "Open-source home automation platform running on Python 3",
   "long_description": "",
   "keywords": [
     "python",
